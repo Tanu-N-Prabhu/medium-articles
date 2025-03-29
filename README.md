@@ -13,14 +13,15 @@ As a **technical writer and software engineer**, I write about **technology, pro
 
 | #  | Article Title                                      | Publication Name          | Publication Date | Link |
 |----|--------------------------------------------------|--------------------------|----------------|------|
-| 1  | Speed Up Your Slow Windows PC in Seconds!       | Self-Published       | Mar 28, 2025   | [Read](https://medium.com/@tanunprabhu95/speed-up-your-slow-windows-pc-in-seconds-9ddf571ece58) |
-| 2  | Brookfield Place — Calgary’s Tallest Overachiever            | The Pub              | Mar 24, 2025    | [Read](https://medium.com/the-pub/brookfield-place-calgarys-tallest-overachiever-c4125ea02e55) |
+| 1  | Mastering the features of Google Colaboratory !!!       | Data Science Collectives       | Jun 17, 2019   | [Read](https://medium.com/data-science/mastering-the-features-of-google-colaboratory-92850e75701) |
+
 
 
 
 ## Let's Connect!  
 
-If you found my articles helpful, consider:  
+If you found my articles helpful, consider:   
+
 ✅ **Following me on Medium** for more insights → [My Medium Profile](https://medium.com/@tanunprabhu95)  
 ✅ **Starring this repository** to keep track of future updates! 🌟  
 ✅ **Connecting on LinkedIn** → [My LinkedIn Profile](https://ca.linkedin.com/in/tanu-nanda-prabhu-a15a091b5)  
